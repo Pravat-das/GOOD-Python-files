@@ -1,0 +1,6 @@
+i am a file inside of another folder
+i am second line of file inside of another folder
+i am a good boy
+i am very honest
+my favorite language is python
+python is an interpreted language
